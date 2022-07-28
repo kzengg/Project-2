@@ -7,7 +7,6 @@ Choosing the best fit Machine Learning model that will predict the price per nig
 ### Model Approach
 In this Project, I used 3 regression models to find the best fit model for prediction.
 
-
 * Linear (Standard)
 * Random Tree
 * KNN
@@ -15,12 +14,9 @@ In this Project, I used 3 regression models to find the best fit model for predi
 Metrics for evaluating the Model:
 
 * MAE: Mean absolute error measures the average of the absolute values of all of the errors our model makes.
-
 * MSE: Mean squared error is similar to mean absolute error, but it penalizes large errors more.
-
 * RMSE: Root mean squared error is the square root of the mean squared error. Like the previous two metrics, a lower RMSE is better.
-
-R^2: This score can be interpreted as saying that our model can account for about XX% of the variation in y_test using the features in X_test. (Not really a high priority measurement in this use case)
+* R^2: This score can be interpreted as saying that our model can account for about XX% of the variation in y_test using the features in X_test. (Not really a high priority measurement in this use case)
 
 ### Data:
 The dataset has the following columns:
