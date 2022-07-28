@@ -20,15 +20,15 @@ Metrics for evaluating the Model:
 
 ### Data:
 The dataset has the following columns:
-* 1   id              2222 non-null   int64  
-* 2   latitude        2222 non-null   float64
-* 3   longitude       2222 non-null   float64
-* 4   property_type   2222 non-null   object 
-* 5   room_type       2222 non-null   object 
-* 6   bathrooms       2211 non-null   float64
-* 7   bedrooms        2221 non-null   float64
-* 8   minimum_nights  2222 non-null   int64  
-* 9   price           2222 non-null   object 
+* id - int64  
+* latitude - float64
+* longitude - float64
+* property_type - object 
+* room_type - object 
+* bathrooms - float64
+* bedrooms - float64
+* minimum_nights - int64  
+* price - object 
 
 #### Visualization of Data
 ![image](https://user-images.githubusercontent.com/76888532/181413278-a3fa3a44-6897-4124-a912-28a032c6cb15.png)
