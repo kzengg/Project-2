@@ -46,6 +46,7 @@ Based on the model scores, I've decided to choose KNeighbors as my chosen regres
 Chosen Model Hyperparameter: n_neighbors = 23, p = 1, weights = 'uniform'
 
 ###Model Results:
-!![Screen Shot 2022-07-27 at 11 17 39 PM](https://user-images.githubusercontent.com/76888532/181413006-32665dcf-3490-41c4-ada2-8d70882fe7a5.png)
-!![Screen Shot 2022-07-27 at 11 16 27 PM](https://user-images.githubusercontent.com/76888532/181412918-ede7a470-33eb-4cc9-b84b-52e93d5fd9c9.png)
-!![Screen Shot 2022-07-27 at 11 17 52 PM](https://user-images.githubusercontent.com/76888532/181413036-b1d76119-38ed-4a7d-8d86-5b2f7af65288.png)
+
+[Screen Shot 2022-07-27 at 11 17 39 PM](https://user-images.githubusercontent.com/76888532/181413006-32665dcf-3490-41c4-ada2-8d70882fe7a5.png)
+[Screen Shot 2022-07-27 at 11 16 27 PM](https://user-images.githubusercontent.com/76888532/181412918-ede7a470-33eb-4cc9-b84b-52e93d5fd9c9.png)
+[Screen Shot 2022-07-27 at 11 17 52 PM](https://user-images.githubusercontent.com/76888532/181413036-b1d76119-38ed-4a7d-8d86-5b2f7af65288.png)
