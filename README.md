@@ -33,15 +33,15 @@ The dataset has the following columns:
  9   price           2222 non-null   object 
 
 #### Visualization of Data
-!![image](https://user-images.githubusercontent.com/76888532/181413278-a3fa3a44-6897-4124-a912-28a032c6cb15.png)
+![image](https://user-images.githubusercontent.com/76888532/181413278-a3fa3a44-6897-4124-a912-28a032c6cb15.png)
 
 Key Observation: Average price and # of bedrooms are closely correlated. This is expected in real estate. More # of bedrooms tend to equates to higher prices.
 
-!![image](https://user-images.githubusercontent.com/76888532/181413314-cf43f478-0c8a-4dda-be50-1f7a3a169742.png)
+![image](https://user-images.githubusercontent.com/76888532/181413314-cf43f478-0c8a-4dda-be50-1f7a3a169742.png)
 
 Key Observation: This shows the average price by each Room Types. Renting out an entire home or apartment will likely be the most expensive option. Its quite interesting to see that shared room is more expensive than a private room. Hotel room is the second most expensive option as it is expected to offer the most privacy and space after an entire home/apartment.
 
-!![image](https://user-images.githubusercontent.com/76888532/181413354-6e5fec7f-8330-484b-ae03-332c22dbe811.png)
+![image](https://user-images.githubusercontent.com/76888532/181413354-6e5fec7f-8330-484b-ae03-332c22dbe811.png)
 
 Key Observation: This shows the average price expected by each property type. Based on the chart, Serviced apartment is the most expensive option. Hostels/Bed and breakfast types are least expensive. This aligns with the typical real estate/hospitality market.
 
