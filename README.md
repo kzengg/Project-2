@@ -1,4 +1,4 @@
-# Project-2
+#Rental Prediction
 
 ### Project Objective:
 
